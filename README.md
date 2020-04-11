@@ -1,6 +1,8 @@
 # nuxt-vue-gsheets
 
-> Project to test vue-gsheets npm package functionality
+Project to test [vue-gsheets npm package](https://www.npmjs.com/package/vue-gsheets) functionality
+
+![demo](demo.png)
 
 ## Build Setup
 

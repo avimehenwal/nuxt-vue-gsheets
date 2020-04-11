@@ -33,13 +33,14 @@
 
 <script>
 import { vueGsheets } from 'vue-gsheets'
+// import { vueGsheets } from '@/gsheet.js'
 
 export default {
   mixins: [vueGsheets],
   date: () => ({
-    COLUMNS: 3,
-    sheetPageNumber: 1,
-    SHEETID: '1Yc2esnockqfrNweacmegXnavuPly8PvjaRzqlRzaXTE'
+    // COLUMNS: 3,
+    // sheetPageNumber: 1,
+    // SHEETID: '1Yc2esnockqfrNweacmegXnavuPly8PvjaRzqlRzaXTE'
   })
 }
 </script>
